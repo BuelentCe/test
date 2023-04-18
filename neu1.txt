@@ -1,12 +1,2 @@
-class CatsError extends CatsState {
-  final String message;
-  const CatsError(this.message);
-  
-}
-
-
-
-
-
-ScaffoldMessenger.of(context)
-                  .showSnackBar(SnackBar(content: Text(state.message)));
+test1 12345
+23455666
